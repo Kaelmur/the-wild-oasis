@@ -2,4 +2,4 @@
 
 Big React Booking Application
 
-https://kael-the-wild-oasis.netlify.app/dashboard
+https://kael-the-wild-oasis.netlify.app
